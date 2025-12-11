@@ -5,7 +5,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 
-**ISGBizert | 3 LIG - Groups 1 & 2 | Machine Learning Course 2025-2026 | Dr. Alaa Bessadok**
 
 A comprehensive machine learning project analyzing New York City taxi data, implementing hierarchical clustering, regression models, and classification algorithms with cross-validation.
 
