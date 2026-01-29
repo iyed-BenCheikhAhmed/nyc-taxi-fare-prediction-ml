@@ -12,12 +12,12 @@ A comprehensive machine learning project analyzing New York City taxi data, impl
 
 This project implements a complete ML pipeline for NYC taxi fare prediction and trip analysis, covering:
 
--  Data Exploration & Preparation**: Cleaning, visualization, and feature engineering
+-  Data Exploration & Preparation: Cleaning, visualization, and feature engineering
 -  Hierarchical Clustering**: Trip segmentation using Agglomerative Clustering
--  Linear Regression**: Fare amount prediction with multiple feature sets
--  Logistic Regression**: Binary classification of high-fare trips
--  Advanced Cross-Validation**: K-Fold and Stratified validation techniques
--  Comparative Analysis**: Performance evaluation across all models
+-  Linear Regression: Fare amount prediction with multiple feature sets
+-  Logistic Regression: Binary classification of high-fare trips
+-  Advanced Cross-Validation: K-Fold and Stratified validation techniques
+-  Comparative Analysis: Performance evaluation across all models
 
 ## 👥 Team Members
 
